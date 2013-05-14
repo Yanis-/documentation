@@ -1,3 +1,9 @@
+---
+layout: simple
+title: Basic
+description: Basic server guide
+---
+
 Basic server information
 ========================
 
