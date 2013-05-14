@@ -2,9 +2,9 @@
 layout: simple
 title: Dedicated server
 description: Dedicated server documentation
-categories: ['dedicated-server']
+categories: ['dedicated']
 showinnav: true
 ---
 
-{% assign selectedcategory = site.categories.dedicated-server %}
+{% assign selectedcategory = site.categories.dedicated %}
 {% include categorycontents %}
